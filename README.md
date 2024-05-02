@@ -14,7 +14,7 @@ For Admins
 - Available Seats Management: Admins can update the availability of seats for each train.
 - Reservation Viewing: Admins can view and manage customer reservations.
   
-Technologies Used
+# Technologies Used
 - Frontend: React.js, Bootstrap, Tailwind CSS, SCSS
 - Backend: .NET
 - Database: SQL Serve
