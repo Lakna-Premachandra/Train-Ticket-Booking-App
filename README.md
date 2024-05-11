@@ -8,8 +8,7 @@ For Customers
 - Ticket Booking: Customers can book tickets for available trains and select preferred seat numbers.
 - Seat Selection: Users can choose their desired seat numbers during the booking process.
 
-  
-  ![Untitled design](https://github.com/Lakna-Premachandra/Train-Ticket-Booking-App/assets/136817118/8713f539-d9ba-4722-9cbd-bc28187d5df5)
+  ![Untitled design (1)](https://github.com/Lakna-Premachandra/Train-Ticket-Booking-App/assets/136817118/287873c3-7cbb-4ef4-8f48-1a5e7b4be1b7)
 
 For Admins
 - Admin Dashboard: Administrators have access to a dashboard where they can manage various aspects of the system.
